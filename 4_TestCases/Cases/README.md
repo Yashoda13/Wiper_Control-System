@@ -11,3 +11,4 @@
  
   TEST I'D	DESCRIPTION	TEST TYPE	OUTPUT EXPECTED	FINAL STATUS
   L_01 	Powering ON the Car	 Secnario based test	PASS 	 IMPLEMENTED
+  L_02	Powering OFF the Car	Boundary value based test 	 PASS	IMPLEMENTED 
