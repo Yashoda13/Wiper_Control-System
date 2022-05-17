@@ -1,6 +1,15 @@
 # WIPER_CONTROL SYSTEM 
 
 ## ABSTRACT
+    
+Vehicle windshield wipers play a important role during extreme weather conditions by wiping the rain water, dust, fog, mist continuously over the course of time and they help us give a clear vision to the driver. Wipers are designed and made to clear the unwanted dust, water etc. from a windscreen. It is Prime duty to improve the safety facilities in all automobiles and vehicles. The system is used to activate the Wipers manually. Due to this issue many engineers and designers and developers have contributed to the research and developement of Automatic Windshield Wiper Functionality in automobiles. The Windshield Wiper Functionality of domestic cars primarily consists of three systems,
+
+*  Two wipers and theis respecive arms
+*  A mechanism
+*  An electronic Motor
+The concept of this proposed wiper system is similar to that of all the other exesting wiper systems. A wiper normally consists of metal arm, one end pivots and the other end has a long rubber blade-attached to it. The purpose of the project is to design the windshield wiper control system for the safetiness of the people who drive heavy automobiles and domestic four-wheeler vehicles.![Wiper_control_system](https://user-images.githubusercontent.com/102661424/168825203-be8a1977-b0c7-4279-a27b-91a8f72ff485.jpg)
+
+
 #  INTRODUCTION 
 
 Most wipers have a low and a high speed, as well as an intermittent setting. When the wipers are on low and high speed, the motor runs continuously. 
